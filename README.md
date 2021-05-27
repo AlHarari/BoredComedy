@@ -1,5 +1,5 @@
 !الســــــــــــــــــــــــــــلام عليــــــــــكم
-- 👋 Hi, I’m @BoredComedy (P.S: You can call me Al-Harari if you want.)
+- 👋 Hi, I’m @BoredComedy 
 - 👀 I’m interested in how computers work, programming languages, and 3d art.
 - 🌱 I’m currently learning some C. Some LuaLaTeX for fun too.
 - 💞️ I’m looking to collaborate on really anything I can.
